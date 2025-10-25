@@ -1,3 +1,4 @@
+#Gemini API
 from google import genai
 client = genai.Client(api_key="AIzaSyBVzUjYRJj5URDaFHxT2jpa7ZGm7IUiYFE")
 nums = [1,2,3,4,5,6]
